@@ -21,13 +21,14 @@ const homePage = () => {
         alignItems="center"
         direction="colum"
       >
-        <h2>Pick your poison!</h2>
         <Grid
           container
           justifyContent="center"
           alignItems="center"
           direction="colum"
         >
+          <h2>Pick your poison!</h2>
+
           <Button />
           <Button />
           <Button />
