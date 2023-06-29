@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./index.css";
 import Home from "./pages/Home";
 import QuizPage from "./pages/QuizPage";
-import noPage from "./pages/noPage";
+import NoPage from "./pages/NoPage";
 import Layout from "./pages/Layout";
 
 import reportWebVitals from "./reportWebVitals";
