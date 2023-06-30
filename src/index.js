@@ -13,7 +13,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="quizPage" element={<quizPage />} />
+          <Route path="quizpage" element={<QuizPage />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
@@ -24,8 +24,7 @@ export default function App() {
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Home />
-    <QuizPage />
+    <App />
   </React.StrictMode>
 );
 
