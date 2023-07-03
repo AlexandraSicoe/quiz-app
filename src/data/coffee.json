@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question": "Where did coffee originate?",
+      "options": ["Brazil", "Ethiopia", "Colombia", "Vietnam"],
+      "answer": "Ethiopia"
+    },
+    {
+      "question": "What is the most expensive coffee in the world?",
+      "options": [
+        "Black Ivory coffee",
+        "St. Helena coffee",
+        "Kopi Luwak",
+        "Hacienda La Esmeralda"
+      ],
+      "answer": "Black Ivory coffee"
+    },
+    {
+      "question": "Which country is the largest producer of coffee?",
+      "options": ["Vietnam", "Brazil", "Colombia", "Ethiopia"],
+      "answer": "Brazil"
+    },
+    {
+      "question": "What does the term 'Americano' refer to in coffee terminology?",
+      "options": [
+        "Espresso shot",
+        "Coffee with milk",
+        "Espresso with hot water",
+        "Black coffee"
+      ],
+      "answer": "Espresso with hot water"
+    },
+    {
+      "question": "What is coffee called when it’s served simply without milk or cream?",
+      "options": ["Espresso", "Macchiato", "Cappuccino", "Black"],
+      "answer": "Black"
+    }
+  ]
+}

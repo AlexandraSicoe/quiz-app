@@ -10,6 +10,11 @@ module.exports = {
       DeepSkyBlue: "#00BFFF",
       MintCream: "#F5FFFA",
     },
+    theme: {
+      container: {
+        center: true,
+      },
+    },
     extend: {},
   },
   plugins: [],

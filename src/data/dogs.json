@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "Which breed of dog is the largest?",
+      "options": ["Great Dane", "Mastiff", "Saint Bernard", "Newfoundland"],
+      "answer": "Great Dane"
+    },
+    {
+      "question": "What is the average lifespan of a dog?",
+      "options": ["10-13 years", "13-15 years", "15-20 years", "20-25 years"],
+      "answer": "10-13 years"
+    },
+    {
+      "question": "Which of the following is not a dog breed?",
+      "options": ["Dalmatian", "Shih Tzu", "Tabby", "Bulldog"],
+      "answer": "Tabby"
+    },
+    {
+      "question": "What is a puppy called before it’s 1 year old?",
+      "options": ["Infant", "Cub", "Kid", "Juvenile"],
+      "answer": "Juvenile"
+    },
+    {
+      "question": "What is the most popular breed of dog in the USA?",
+      "options": [
+        "German Shepherd",
+        "Golden Retriever",
+        "Labrador Retriever",
+        "Bulldog"
+      ],
+      "answer": "Labrador Retriever"
+    }
+  ]
+}

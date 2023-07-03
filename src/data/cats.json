@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "What is the lifespan of an average house cat?",
+      "options": ["10 years", "15 years", "20 years", "25 years"],
+      "answer": "15 years"
+    },
+    {
+      "question": "Which country has the highest population of cats?",
+      "options": ["United States", "China", "Russia", "Australia"],
+      "answer": "United States"
+    },
+    {
+      "question": "What is a group of cats called?",
+      "options": ["A pack", "A pride", "A clowder", "A flock"],
+      "answer": "A clowder"
+    },
+    {
+      "question": "Which of the following is not a breed of cat?",
+      "options": ["Persian", "Siamese", "Bengal", "Labrador"],
+      "answer": "Labrador"
+    },
+    {
+      "question": "What is the average sleep duration of cats per day?",
+      "options": ["8-10 hours", "10-12 hours", "12-14 hours", "14-16 hours"],
+      "answer": "14-16 hours"
+    }
+  ]
+}
