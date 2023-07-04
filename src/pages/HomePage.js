@@ -54,7 +54,10 @@ const HomePage = () => {
         <div>
           {quizData.map((quiz, index) => {
             return (
-              <Link key={quiz.name + index} to={"/quiz-page?cat=" + quiz.slug}>
+              <Link
+                key={quiz.name + index}
+                to={"/quiz-page?category=" + quiz.slug}
+              >
                 <Button
                   style={{
                     fontFamily: "Bacasime Antique",

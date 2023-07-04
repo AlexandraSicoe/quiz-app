@@ -1,110 +1,14 @@
 [
   {
     "name": "Cat",
-    "slug": "cat",
-    "questions": [
-      {
-        "question": "What is the lifespan of an average house cat?",
-        "options": ["10 years", "15 years", "20 years", "25 years"],
-        "answer": "15 years"
-      },
-      {
-        "question": "Which country has the highest population of cats?",
-        "options": ["United States", "China", "Russia", "Australia"],
-        "answer": "United States"
-      },
-      {
-        "question": "What is a group of cats called?",
-        "options": ["A pack", "A pride", "A clowder", "A flock"],
-        "answer": "A clowder"
-      },
-      {
-        "question": "Which of the following is not a breed of cat?",
-        "options": ["Persian", "Siamese", "Bengal", "Labrador"],
-        "answer": "Labrador"
-      },
-      {
-        "question": "What is the average sleep duration of cats per day?",
-        "options": ["8-10 hours", "10-12 hours", "12-14 hours", "14-16 hours"],
-        "answer": "14-16 hours"
-      }
-    ]
+    "slug": "cat"
   },
   {
     "name": "Coffee",
-    "slug": "coffee",
-    "questions": [
-      {
-        "question": "Where did coffee originate?",
-        "options": ["Brazil", "Ethiopia", "Colombia", "Vietnam"],
-        "answer": "Ethiopia"
-      },
-      {
-        "question": "What is the most expensive coffee in the world?",
-        "options": [
-          "Black Ivory coffee",
-          "St. Helena coffee",
-          "Kopi Luwak",
-          "Hacienda La Esmeralda"
-        ],
-        "answer": "Black Ivory coffee"
-      },
-      {
-        "question": "Which country is the largest producer of coffee?",
-        "options": ["Vietnam", "Brazil", "Colombia", "Ethiopia"],
-        "answer": "Brazil"
-      },
-      {
-        "question": "What does the term 'Americano' refer to in coffee terminology?",
-        "options": [
-          "Espresso shot",
-          "Coffee with milk",
-          "Espresso with hot water",
-          "Black coffee"
-        ],
-        "answer": "Espresso with hot water"
-      },
-      {
-        "question": "What is coffee called when it’s served simply without milk or cream?",
-        "options": ["Espresso", "Macchiato", "Cappuccino", "Black"],
-        "answer": "Black"
-      }
-    ]
+    "slug": "coffee"
   },
   {
     "name": "Dog",
-    "slug": "dog",
-    "questions": [
-      {
-        "question": "Which breed of dog is the largest?",
-        "options": ["Great Dane", "Mastiff", "Saint Bernard", "Newfoundland"],
-        "answer": "Great Dane"
-      },
-      {
-        "question": "What is the average lifespan of a dog?",
-        "options": ["10-13 years", "13-15 years", "15-20 years", "20-25 years"],
-        "answer": "10-13 years"
-      },
-      {
-        "question": "Which of the following is not a dog breed?",
-        "options": ["Dalmatian", "Shih Tzu", "Tabby", "Bulldog"],
-        "answer": "Tabby"
-      },
-      {
-        "question": "What is a puppy called before it’s 1 year old?",
-        "options": ["Infant", "Cub", "Kid", "Juvenile"],
-        "answer": "Juvenile"
-      },
-      {
-        "question": "What is the most popular breed of dog in the USA?",
-        "options": [
-          "German Shepherd",
-          "Golden Retriever",
-          "Labrador Retriever",
-          "Bulldog"
-        ],
-        "answer": "Labrador Retriever"
-      }
-    ]
+    "slug": "dog"
   }
 ]
