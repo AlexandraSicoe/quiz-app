@@ -1,5 +1,7 @@
 import React from "react";
 import { Grid } from "@mui/joy";
+import Button from "@mui/joy/Button";
+import { Link } from "react-router-dom";
 
 const NoPage = () => {
   return (
@@ -32,6 +34,18 @@ const NoPage = () => {
         >
           We couldn't find this page.
         </p>
+        <Link to={"/"}>
+          <Button
+            style={{
+              fontFamily: "Bacasime Antique",
+              fontSize: "20px",
+              color: "black",
+              margin: "10px",
+            }}
+          >
+            Return to the Home Page
+          </Button>
+        </Link>
       </Grid>
     </div>
   );
