@@ -12,11 +12,11 @@ const QuizPage = () => {
   const [quizData, setQuizData] = useState(null); // set de constate, o var=quizData, metoda=setQuizData care repr. un state si setterul unui state deoarece iau o valoare bazata pe useState care vine din React; quizData=state ul, seQuizdata=metoda care schimba state ul = setterul
   useEffect(() => {
     //useEffect=hook, ma lasa sa execut code bazat pe un sir de dependinte pe care le definim in arrayul de dependinte care este ultimul parametru dat lui useEffect aka []
-    if (query.get("category") == "cat") {
+    if (query.get("category") === "cat") {
       setQuizData(cats);
-    } else if (query.get("category") == "dog") {
+    } else if (query.get("category") === "dog") {
       setQuizData(dogs);
-    } else if (query.get("category") == "coffee") {
+    } else if (query.get("category") === "coffee") {
       setQuizData(coffee);
     } else {
       navigate("/404");
