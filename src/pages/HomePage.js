@@ -5,7 +5,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import quizData from "../data/data.json";
 const HomePage = () => {
-  console.log(quizData);
   return (
     <div
       className="container-fluid"

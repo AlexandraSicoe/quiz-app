@@ -11,7 +11,7 @@ import useQuery from "../helpers/useQuery";
 
 const QuizPage = () => {
   const query = useQuery(); // ne ajuta sa preluam date din URL/ din query params din URL
-  const navigate = useNavigate(); //ne ofera in o metosa sa schimbam URL
+  const navigate = useNavigate(); //ne ofera in o metoda sa schimbam URL
   const [quizData, setQuizData] = useState(null); // set de constate, o var=quizData, metoda=setQuizData care repr. un state si setterul unui state deoarece iau o valoare bazata pe useState care vine din React; quizData=state ul, seQuizdata=metoda care schimba state ul = setterul
 
   const [questionCount, setQuestionCount] = useState(0);
